@@ -1,0 +1,4 @@
+[1001/214531.116:ERROR:file_io.cc(90)] ReadExactly: expected 672, observed 0
+[1001/214531.163:ERROR:crash_report_database_win.cc(447)] failed to read records
+[1001/214531.897:ERROR:file_io.cc(90)] ReadExactly: expected 672, observed 0
+[1001/214531.897:ERROR:crash_report_database_win.cc(447)] failed to read records
